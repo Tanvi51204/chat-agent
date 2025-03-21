@@ -1,0 +1,10 @@
+langchain
+wikipedia
+langchain-community
+langchain-groq
+langchain-anthropic
+python-dotenv
+pydantic
+langchain-serpapi 
+duckduckgo-search
+

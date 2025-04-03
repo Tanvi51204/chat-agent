@@ -1,15 +1,5 @@
 --- Research Output ---
-Timestamp: 2025-03-21 18:06:30
+Timestamp: 2025-03-21 20:02:02
 
-Net Present Value
-
---- Research Output ---
-Timestamp: 2025-03-21 18:53:37
-
-A car, or an automobile, is a motor vehicle with wheels. Most definitions of cars state that they run primarily on roads, seat one to eight people, have four wheels, and mainly transport individuals. In 1886, Karl Benz patented the first gasoline-powered car, and the first commercial cars were launched in the early 20th century. Since then, car design has evolved significantly, with advancements in technology, safety features, and environmental impact.
-
---- Research Output ---
-Timestamp: 2025-03-21 18:53:39
-
-The world of car design has undergone a remarkable transformation over the past 50 years, reflecting shifts in technology, consumer preferences, and environmental responsibilities. Explore the historical evolution of car design, from the Ford Model T to digital innovations and sustainability, shaping today's automotive landscape.
+An air quality index (AQI) is an indicator developed by government agencies to communicate to the public how polluted the air currently is or how polluted it is forecasted to be at a specific location. The AQI is usually based on the level of five major air pollutants: particulate matter (PM2.5), particulate matter (PM10), ozone (O3), nitrogen dioxide (NO2), and carbon monoxide (CO). The AQI is expressed as a numerical value, with higher values indicating poorer air quality. The AQI is often color-coded, with different colors representing different levels of air quality. For example, green may represent good air quality, yellow may represent moderate air quality, orange may represent unhealthy air quality, and red may represent very unhealthy air quality. The AQI is an important tool for public health officials to communicate air quality information to the public and to take action to reduce air pollution. It is also used by governments to set standards for air quality and to monitor progress in reducing air pollution. Overall, the air quality index is a useful tool for understanding and communicating air quality information to the public.
 

@@ -1,0 +1,33 @@
+
+--- Research Output Entry ---
+Timestamp: 2025-04-03 22:44:42
+---
+RAW AGENT OUTPUT (Parsing Failed):
+
+---
+
+--- Research Output Entry ---
+Timestamp: 2025-04-03 22:51:59
+---
+RAW AGENT OUTPUT (Parsing Failed):
+
+---
+
+--- Research Output Entry ---
+Timestamp: 2025-04-03 22:54:28
+---
+RAW AGENT OUTPUT (Parsing Failed):
+```json
+{
+  "topic": "Air Quality Index (AQI)",
+  "summary": "The Air Quality Index (AQI) is a measure used to communicate how polluted the air currently is or how polluted it is forecast to become. It is calculated based on five major air pollutants regulated by the Clean Air Act: particulate matter (PM2.5 and PM10), ozone (O3), nitrogen dioxide (NO2), carbon monoxide (CO), and sulfur dioxide (SO2). The AQI is updated daily and provides information about the health effects associated with air pollution. The index ranges from 0 to 300, with higher values indicating greater levels of pollution and greater health risks. The categories are: Good (0-50), Moderate (51-100), Unhealthy for sensitive groups (101-200), Unhealthy (201-300), and Hazardous (301+). The AQI is an important tool for helping individuals, especially those in sensitive groups, make informed decisions about protecting their health during poor air quality conditions.",
+  "sources": [
+    "AirNow - Current United States Air Quality Index (AQI)",
+    "EPA's annual report, Our Nation's Air"
+  ],
+  "tools_used": [
+    "search"
+  ]
+}
+```
+---
